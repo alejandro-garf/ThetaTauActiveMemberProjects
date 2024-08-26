@@ -1,2 +1,2 @@
-# ThetaTauActiveMemberProjects
-Guidlines and proposal for active members of Theta Tau for fall semester 2024
+# Theta Tau Active Member Projects FA 24
+Proposal and guidelines for Active Members of TT. **Not yet approved by E-Board**
