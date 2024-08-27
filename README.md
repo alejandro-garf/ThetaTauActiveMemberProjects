@@ -1,4 +1,5 @@
 # Theta Tau Active Member Projects FA 24
+*Note all projects hard cutoff date will be 11/29/24 and Presentations will be GBM 12/2/24
 
 ### Portfolio Website Competition - Option A
 #### Cost: $20 per participant
