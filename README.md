@@ -15,9 +15,22 @@ In the ever competitive world of Computer Science it is important to stand out f
   
 - The winner will be chosen through an anonymous voting form that will be given to everyone in Theta Tau that didn't participate in the project. **A short explnation for each vote will be required to curb any bias in voting**
 
-- In order to obtain a **Complete**, those particpating in this competition must accumalate **10** points by completing some of the guidelines from the options below. (note that completeing all of these guidelines will put you in the best place to succede, but it is not required)
+- In order to obtain a **Complete**, those particpating in this competition must accumalate **10** points by completing some of the guidelines from the options below. (note that completeing all of these guidelines will put you in the best place to succede, but it is not required. However, the amount of points achieved will be shown on the voting form so it may have an impact on voter tendencies)
 
-  - 
+  - Wireframing/UI&UX design of website: **2 points**
+  - Create and share github repo with project chair **2 points**
+  - Create and consistenlty update a readme file in repo that shares where you are in development **1 point**
+  - Not using a pre-built template (Must document how you built each component of website) **5 points**
+  - LinkedIn and Github linked in website **2 points**
+  - Showcase of atleast one past project on website **2 points**
+  - Resume on site **1 point**
+  - Resume on site in an interactive format (Not just a picture of resume) **4 points**
+  - "About Me" Section **1 point**
+  - All functionality on website works (pages, links, pictures, no bugs) **5 points**
+  - Host on Github pages (free) **5 points**
+  - Buy and connect a custom domain to your portfolio website **4 points**
+  - Connect Google Analytics to your site **2 points**
+  - Rank top 10 in SEO when searching your name **3 points**
 
 
 
