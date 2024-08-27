@@ -10,6 +10,9 @@ The portfolio project competition for the Computer Science majors within Theta T
 
 In the ever competitive world of Computer Science it is important to stand out from the rest, and what better way than to not only build a portfolio website, but to win a competition that cements your portfolio as unique, techically impressive, and interactive in a way that warrents attention from any company that you may be applying to. Through this project competition you will be helping yourself professionally, have a shot at winning the prize, and most importantly; bragging rights!
 
+### Structure & Guidelines for this Conpetition
+- 
+
 
 
 ## Engineering Majors 
