@@ -5,6 +5,6 @@
 
 ## Computer Science Majors
 ### Option 1 - Portfolio Website Competition 
-  #### Cost: $20 per Active 
+#### - Cost: $20 per Active 
 
 ## Engineering Majors 
