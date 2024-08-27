@@ -4,5 +4,7 @@
 - The main goal for this semester as project chair is not just to achieve full participation and project completion, but to implement healthy competition to foster active engagement and excitement while building something that will benefit their resume and professional development.
 
 ## Computer Science Majors
+### Option 1 - Portfolio Website Competition 
+#### Cost: $20 per Active 
 
 ## Engineering Majors 
