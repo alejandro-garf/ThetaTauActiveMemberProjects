@@ -12,6 +12,7 @@ In the ever competitive world of Computer Science it is important to stand out f
 
 ### Structure & Guidelines for this Conpetition
 - For every active that participates in this competition, $20 will be put into the prize money pool. This can be used either for a cash prize, gift card, or a different product that will get actives excited to participate.
+  
 - The winner will be chosen through an anonymous voting form that will be given to everyone in Theta Tau that didn't participate in the project. **A short explnation for each vote will be required to curb any bias in voting**
 - 
 
