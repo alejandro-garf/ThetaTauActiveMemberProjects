@@ -1,8 +1,5 @@
 # Theta Tau Active Member Projects FA 24
 
-### Proposal and guidelines for Active Members of TT - ***Not yet approved by E-Board***
-The main goal for this semester as project chair is to implement healthy competition to foster active engagement and excitement while building something that will benefit their resume and professional development.
-
 ### Portfolio Website Competition - Option A
 #### Cost: $20 per participant
 The portfolio project competition for the Computer Science majors within Theta Tau is designed to showcase students' technical skills, creativity, and building their professional image. Those who choose to participate are invited to design, build, and update their website to present a comprehensive portfolio that highlights their best projects, including coding assignments, collaborative projects, internships, personal projects, and any other work that demonstrates their proficiency in computer science.
