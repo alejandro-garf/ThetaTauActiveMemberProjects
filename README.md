@@ -17,7 +17,7 @@ In the ever competitive world of Computer Science it is important to stand out f
 
 - In order to obtain a **Complete**, those particpating in this competition must accumalate **10** points by completing some of the guidelines from the options below. (note that completeing all of these guidelines will put you in the best place to succede, but it is not required)
 
-- - 
+  - 
 
 
 
