@@ -36,7 +36,7 @@ In the ever-competitive world of Computer Science, it is important to stand out 
 The catapult project is designed to challenge Theta Tau members to design, build, and test a functional catapult. This project will allow participants to apply their knowledge of physics and engineering principles in a practical setting while working collaboratively to achieve the best results.
 
 ### Structure & Guidelines for this Competition
-- Teams would ideally be made up of 2-4 members. 
+- Teams would ideally be made up of 2-4 members. Frame of catapult must stay within 1x2ft
 
 - To obtain a **Complete**, participants must accumulate **21 POINTS** from the checklist below. Completing all of the items on the checklist will maximize your chances of success, but it is not mandatory. 
 
