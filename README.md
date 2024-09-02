@@ -1,5 +1,7 @@
 # Theta Tau Active Member Projects FA 24
 *Note all projects hard cutoff date will be 11/29/24 and Presentations will be GBM 12/2/24
+*Be ready to provide project updates during GB meetings. 
+*Once you have chosen a project message the Project Chair with your proposal so I can send you your checklist
 
 ### Portfolio Website Competition - Option A
 #### Cost: $20 per participant
@@ -28,7 +30,7 @@ In the ever-competitive world of Computer Science, it is important to stand out 
   - **2 points** Buy and connect a custom domain to your portfolio website
   - **2 points** Connect Google Analytics to your site 
   - **1 point** Rank top 10 in SEO when searching your name
-  - **2 points** Project Check-in with Project Chair
+  - **2 points** Schedule a Project Check-in with Project Chair
 
 
 ### Catapult - Option B
@@ -46,7 +48,7 @@ The catapult project is designed to challenge Theta Tau members to design, build
   - **3 points** Frame of catapult built
   - **3 points** Fully functional catapult
   - **3 points** Document the construction process with photos and descriptions in consistantly updated page
-  - **3 points** Check-in with project chair for progress updates
+  - **3 points** Schedule a Project Check-in with Project Chair
   - **3 points** Incorporate an electrical aspect during the design process
   - **3 points** Incorporate an electrical aspect during the building of the catapult
   - **2 points** Use a unique design for the catapult
@@ -64,7 +66,7 @@ Continue the legacy project in a team.
   - ***1 point*** Goal #2 met
   - **5 points** Create and order a materials list
   - **3 points** Document the entire process with photos and descriptions in consistantly updated page 
-  - **3 points** Check-in with the project chair for progress updates
+  - **3 points** Schedule a Project Check-in with Project Chair
   - **1 points** Create YT video explaing the project to future teams working on legacy project
  
 ### Theta Tau Website - Option D **Legacy**
@@ -80,11 +82,11 @@ Continue the legacy project in a team.
   - ***1 point*** feature/update #2 done
   - ***1 point*** feature/update #3 done
   - **1 points** Create YT video explaing the project to future teams working on legacy project
-  - **3 points** Check-in with the project chair for progress updates
+  - **3 points** Schedule a Project Check-in with Project Chair
  
 ### Your own project 
 #### Cost: TBD
-Must create project proposal to be approved by E-board that incorperates the following info:
+Must create project proposal to be approved by E-board that incorperates the following info *Note this proposal will be used for me to create a checklist for you:
   - Team name
   - Active names
   - Project overview
