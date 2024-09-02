@@ -1,9 +1,9 @@
 # Theta Tau Active Member Projects FA 24
-*Note all projects hard cutoff date will be 11/29/24 and Presentations will be GBM 12/2/24
+**Note all projects hard cutoff date will be 11/29/24 and Presentations will be GBM 12/2/24
 
-*Be ready to provide project updates during GB meetings. 
+**Be ready to provide project updates during GB meetings. 
 
-*Once you have chosen a project message the Project Chair with your proposal so I can send you your checklist
+**Once you have chosen a project message the Project Chair with your proposal so I can send you your checklist
 
 ### Portfolio Website Competition - Option A
 #### Cost: $20 per participant
