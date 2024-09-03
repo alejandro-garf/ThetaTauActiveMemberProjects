@@ -14,7 +14,7 @@ In the ever-competitive world of Computer Science, it is important to stand out 
 ### Structure & Guidelines for this Competition
 - For every active member that participates in this competition, $20 will be put into the prize money pool. T
   
-- The winner will be chosen through an anonymous voting form that will be given to everyone in Theta Tau who didn't participate in the project. **A short explanation for each vote will be required to curb any bias in voting.**
+- The winner will be chosen through an anonymous voting form that will be given to everyone in Theta Tau who didn't participate in the project competition. **A short explanation for each vote will be required to curb any bias in voting.**
 
 - To obtain a **Complete**, those participating in this competition must accumulate **18 POINTS** from the checklist below. Completing all of the items on the checklist will put you in the best place to succeed in creating a fully functional professional portfolio website, but it is not required. However, the number of points achieved will be shown on the voting form, so it may impact voter tendencies.
 
@@ -48,9 +48,9 @@ The catapult project is designed to challenge Theta Tau members to design, build
   - **5 points** AutoCAD or SolidWorks design shared with project chair
   - **5 points** Create and order a materials list
   - **3 points** Frame of catapult built
-  - **3 points** Fully functional catapult
+  - **4 points** Fully functional catapult
   - **3 points** Document the construction process with photos and descriptions in consistantly updated page
-  - **3 points** Schedule a Project Check-in with Project Chair
+  - **2 points** Schedule a Project Check-in with Project Chair
   - **3 points** Incorporate an electrical aspect during the design process
   - **3 points** Incorporate an electrical aspect during the building of the catapult
   - **2 points** Use a unique design for the catapult
@@ -68,8 +68,8 @@ Continue the legacy project in a team.
   - ***1 point*** Goal #2 met
   - **5 points** Create and order a materials list
   - **3 points** Document the entire process with photos and descriptions in consistantly updated page 
-  - **3 points** Schedule a Project Check-in with Project Chair
-  - **1 points** Create YT video explaing the project to future teams working on legacy project
+  - **2 points** Schedule a Project Check-in with Project Chair
+  - **2 points** Create YT video explaing the project to future teams working on legacy project
  
 ### Theta Tau Website - Option D **Legacy**
 #### Cost: $0
@@ -83,12 +83,12 @@ Continue the legacy project in a team.
   - ***1 point*** feature/update #1 done 
   - ***1 point*** feature/update #2 done
   - ***1 point*** feature/update #3 done
-  - **1 points** Create YT video explaing the project to future teams working on legacy project
-  - **3 points** Schedule a Project Check-in with Project Chair
+  - **2 points** Create YT video explaing the project to future teams working on legacy project
+  - **2 points** Schedule a Project Check-in with Project Chair
  
 ### Your own project 
 #### Cost: TBD
-Must create project proposal to be approved by E-board that incorperates the following info *Note this proposal will be used for me to create a checklist for you:
+Must create project proposal to be approved by E-board and shared with project chair that incorperates the following info *Note this proposal will be used for me to create a checklist for you:
   - Team name
   - Active names
   - Project overview
