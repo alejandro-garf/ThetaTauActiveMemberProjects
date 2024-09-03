@@ -12,7 +12,7 @@ The portfolio project competition for the Computer Science majors within Theta T
 In the ever-competitive world of Computer Science, it is important to stand out from the rest, and what better way than to not only build a portfolio website but to win a competition that cements your portfolio as unique, technically impressive, and interactive in a way that warrants attention from any company that you may be applying to. Through this project competition, you will be helping yourself professionally, have a shot at winning the prize, and most importantly, bragging rights!
 
 ### Structure & Guidelines for this Competition
-- For every active member that participates in this competition, $20 will be put into the prize money pool. This can be used either for a cash prize, gift card, or a different product that will get actives excited to participate.
+- For every active member that participates in this competition, $20 will be put into the prize money pool. T
   
 - The winner will be chosen through an anonymous voting form that will be given to everyone in Theta Tau who didn't participate in the project. **A short explanation for each vote will be required to curb any bias in voting.**
 
